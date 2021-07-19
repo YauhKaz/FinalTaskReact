@@ -1,0 +1,8 @@
+export const ADD_USER = 'ADD_USER'
+export const READ_USER = 'READ_USER'
+export const FETCHED_FILMS = 'FETCHED_FILMS'
+export const CHENGED_PAGINATION = 'CHENGED_PAGINATION'
+export const CHENGED_FILTER = 'CHENGED_FILTER'
+export const CHANGE_USER = 'CHANGE_USER'
+export const DELETE_FILMS = 'DELETE_FILMS'
+export const UPDATE_FILMS = 'UPDATE_FILMS'
